@@ -1,4 +1,4 @@
-# FRT-Project-Fashion-Trendz
+# FRT-Project-Fashion-Trendz by Bhavya Aggarwal
 The working deployed on Azure URL is: https://red-mud-0f2bcea10.1.azurestaticapps.net
 <br>
 This project is a lifestyle influencing platform which helps individuals discover in-trend fashion. They are able to view latest in fashion and also develop their own fashion identity.
