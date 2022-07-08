@@ -1,5 +1,6 @@
 # FRT-Project-Fashion-Trendz by Bhavya Aggarwal
 The working deployed on Azure URL is: https://red-mud-0f2bcea10.1.azurestaticapps.net
+The certificate of virtual internship completion can be viewed on: https://drive.google.com/file/d/19BUJdX01FkjAx-KFTFdzVtA7wUKMyypD/view?usp=sharing
 <br>
 This project is a lifestyle influencing platform which helps individuals discover in-trend fashion. They are able to view latest in fashion and also develop their own fashion identity.
 
